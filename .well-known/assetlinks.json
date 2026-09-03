@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.workers.meshachbenito61.sermon1.twa",
+        "sha256_cert_fingerprints": ["B3:E1:8B:D5:33:E8:A2:55:D0:CA:E8:D8:2A:7C:D3:9F:83:6D:F4:48:89:FF:47:63:24:1F:B0:9B:39:0D:EB:01"]
+      }
+    }]
